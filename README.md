@@ -1,5 +1,7 @@
 # account-system-php
-____
+
+---
+
 - ساده و راحت
 - استایل دارای متغییر است تا راحت در چند ثانیه تغییر تم دهید!
 - متصل شده به دیتابیس با `PDO`
@@ -8,6 +10,7 @@ ____
 [Vixium Team](https://vixium.ir)
 
 # پیش نمایش
+
 ![img](https://github.com/ariafi/account-system-php/blob/main/preview/1.png)
 ![img](https://github.com/ariafi/account-system-php/blob/main/preview/2.png)
 ![img](https://github.com/ariafi/account-system-php/blob/main/preview/3.png)
